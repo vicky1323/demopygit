@@ -1,0 +1,9 @@
+06:46:18	CopadoFunction INFO setting status 'Exceution starts'
+06:46:19	Hello Gopal
+06:46:19	  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+06:46:19	                                 Dload  Upload   Total   Spent    Left  Speed
+06:46:19	  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     006:46:20	  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     006:46:20	100    46  100    46    0     0     65      0 --:--:-- --:--:-- --:--:--    65
+06:46:20	{
+06:46:20	 "UName" : "Password1"
+06:46:20	"Password" : "New1"
+06:46:20	}
